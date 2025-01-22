@@ -1,0 +1,748 @@
+Problem solving is a ubiquitous human activity that requires individuals to identify a goal and
+28 determine the steps needed to achieve it. While there are many different strategies that can be used to
+29 solve a problem, individuals vary in the strategies they use (Lemaire & Lecacheur, 2010; Siegler &
+30 Lemaire, 1997), raising the question of how people develop and choose the strategies they use.
+31 Several theories of strategy selection explain how better performing strategies become preferred
+32 (Erev & Barron, 2005; Lieder & Griffiths, 2017; Rieskamp & Otto, 2006; Shrager & Siegler, 1998).
+33 Most of these theories start with some kind of task representation and a set of available strategies.
+34 However, the Represent-Construct-Choose-Learn (RCCL; Lovett & Schunn, 1999) theory posits a
+35 role for how changing task representations influence the generation of new strategies which in turn
+36 affects strategy choices. Given this theory’s relatively broad focus on the strategy selection problem
+from representation to strategy selection, the goal of the current study w 37 as to replicate and extend the
+38 results of one of only two studies that have been conducted to directly assess the predictions of the
+39 RCCL theory.
+40 In the RCCL theory, the four main stages are as follows: (1) Represent the task, (2) Construct a set of
+41 strategies based on features in the task representation, (3) Choose from among those strategies based
+42 on rates of success, and (4) Learn or update success rates based on performance with experience
+43 (Lovett & Schunn, 1999). The interaction of the theorized processes is shown in the left half of
+44 Figure 1. This theory describes the process of how people use their task representations to learn to
+45 make choices and why people might change their task representations over time. A task
+46 representation in this theory is defined as a set of features that is used to encode the task
+47 environment. The salience of the features in a task impacts the initial task representation by
+48 determining which features might be initially selected. Then the selected features of the task
+49 representation are used to generate different strategies for use. After constructing a set of strategies,
+50 individuals choose a strategy among them based on the strategy’s estimated success rate. The success
+51 rate of each strategy is learned from experience in the task. With more experience, people will learn
+52 the success rates of all strategies they have used in a task. This learning mechanism leads to gradual
+53 changes of the estimated success rate, and these changes in turn lead to strategy selection changes. In
+54 particular, the theory says that if all strategies available under the current task representation have
+55 low success rates, then individuals seek other features to re-represent the task by adding or removing
+56 task features from the representation. New strategies will be generated from this revised
+57 representation and their success rates will be learned through experience. Critically, only strategy58
+specific success rates are learned, and these strategies are based on the features incorporated into the
+59 task representation at the time the strategies are created.
+One reason why the RCCL theory focuses on the role of task representations in strategy selection is
+61 because it was developed, in part, to explain why people exhibit base-rate neglect on some tasks but
+62 not others. Lovett and Schunn (1999) argue that the tendency to neglect base-rate information is due
+63 to the way people represent these tasks. RCCL explains that strategies are based on the task
+64 representation, and people can only learn base rates for strategy success. If the task representation
+65 does not include a feature critical for learning base rates in the task, then people will fail to learn
+66 these base rates.
+67 No other theory of strategy selection that we are aware of incorporates the role of a changing task
+68 representation in creating and selecting strategies. Many other strategy selection theories focus
+69 primarily on learning which pre-existing strategy performs better on average (Erev & Barron, 2005;
+70 Rieskamp & Otto, 2006). The SCADS theory of strategy selection (Shrager & Siegler, 1998) also
+71 incorporates strategy generation mechanisms, but it assumes that the task representation does not
+72 change. The Rational Metareasoning (RM) theory (Lieder & Griffiths, 2017) provides an explanation
+73 for how people can adjust their strategy selection based on the feature-based representation of
+74 individual problems based on success rates and the execution time of strategies on prior problems
+75 with similar features. The RCCL theory posits that people will develop an initial task representation
+76 from the available task features, generate strategies based on those features, and drop features from
+77 the representation that are not useful, and that strategies based on the current task representation are
+78 the only ones that will be selected and whose estimates of success will be updated. However, unlike
+79 SCADS or RM, RCCL is not a running mathematical or computational model. If the predictions that
+80 RCCL makes have empirical support, then it may be worth further developing this theory due to its
+81 focus on the importance of task representation changes impacting the generation and availability of
+82 strategies that can be selected. The original paper supporting the RCCL theory provided support from
+two studies (Lovett & Schunn, 1999), but neither study appears to have 83 been replicated since the
+84 original publication, nor does it appear that the predictions of this theory have been tested in other
+85 studies examining strategy selection.
+86 Some of the predictions of the theory can be illustrated using the Building Sticks Task (BST) that
+87 was used in the first study of the original paper (Lovett & Schunn, 1999). As shown in Figure 2, in a
+88 BST problem there are three building sticks (black) and a target stick (green). The goal of the task is
+89 to add and subtract the lengths of the three sticks to match the target length. A participant's strategy
+90 can be categorized as either the undershoot or overshoot strategy based on the first move made on
+91 each problem attempt. The undershoot strategy starts with the longest stick that is shorter than the
+92 target (i.e., stick B) and then adds additional sticks to reach the target length. In contrast, the
+93 overshoot strategy starts with the longest stick (i.e., stick C) and then subtracts other sticks to reach
+94 the target length.
+95 The original study manipulated the predictiveness of one feature of the task in addition to
+96 manipulating the overall base rates of success for the overshoot and undershoot strategies.
+97 Specifically, the proportion of problems solved by one strategy was varied to manipulate the base
+98 rates of strategy success across conditions to create a biased condition (70% of problems solved by
+99 one strategy) or an unbiased condition (50% solved by each strategy). In BST problems, there is
+100 usually one stick closest to the target length, which is a salient feature of the task for participants, and
+101 they will select this stick in accordance with a hill-climbing heuristic (i.e., choosing moves based on
+102 which one decreases the distance to the goal the most; Lovett & Anderson, 1996). For example, in
+103 Figure 2, stick C is closer to the target than stick B, so participants using the relative length cue
+104 would be more likely to use the overshoot strategy. However, using the relative length cue may or
+105 may not be the correct strategy for a given BST problem, and the success rate of the relative length
+106 cue was also manipulated as a second factor in the original study to create a predictive condition
+107 (80% predictive of a correct strategy) or an unpredictive condition (50% predictive of a correct
+108 strategy).\\
+
+109 To illustrate how the task representation affects strategy selection, consider a participant in the
+110 biased-unpredictive condition that starts off by using the relative length cue as a task feature in
+111 generating a strategy. The strategies generated based on this feature would be in the format of if-then
+112 production rules according to RCCL. An example of such an overshoot strategy would be if the
+113 overshoot stick is much closer to the goal than the undershoot stick, then select the overshoot stick
+114 and try to reduce its length to match the target. An equivalent strategy could be constructed for
+115 undershoot as well from this feature. In general, these strategies will turn out to be unsuccessful (50%
+116 success rate), and therefore the participant drops the relative length cue feature from the task
+117 representation according to the RCCL theory. The participant may identify other features of the task
+118 to help select between overshoot and undershoot, but eventually all unsuccessful features would be
+119 dropped. In this case, the only remaining strategies are to choose the overshoot or undershoot
+120 strategy without using any problem-specific features. At this point, the participant would learn the
+121 overall base rates of success for these two strategies resulting in choosing the strategy with the
+122 highest base rate most often. This process is illustrated in the context of the RCCL theory on the right
+123 side of Figure 1.
+124 With the manipulations of base rates and cue predictiveness, RCCL's predictions are as follows: (1)
+125 the relative length cue will influence participants’ initial strategy selection because salient cues are
+126 more likely to be a part of the initial problem representation; (2) participants will eventually learn the
+127 base rates of success of each strategy in the biased conditions; (3) participants will stop using the
+
+relative length cue feature if it is not predictive of success; (4) more 128 task representation and strategy
+129 changes will occur when the success rates of strategies are low. The relationship between strategy
+130 selection and problem representation in the RCCL theory also suggests possible links between
+131 individual differences that affect how people construct problem representations and select strategies.
+132 2 Individual Differences Related to Problem Solving and Strategy Selection
+133 Individual differences in working memory capacity as well as attentional control processes are likely
+134 to affect strategy selection and problem-solving success. Working memory capacity has previously
+135 been linked to success in problem solving (Ash & Wiley, 2006; Wiley & Jarosz, 2012) at least
+136 partially because of its association with attentional control ability (Ash & Wiley, 2006; Draheim et
+137 al., 2021; Engle & Kane, 2004; Kane et al., 2004). Attentional control is thought to be involved in
+138 selecting which representations to maintain in working memory (Unsworth, 2016; Unsworth et al.,
+139 2021). In addition, considering that generating the initial task representation requires attention to
+140 feature saliency, strategy selection might be correlated with individual differences in the ability to
+141 control attention. Attentional control may be an important aspect of both problem-solving and
+142 strategy selection processes because it allows people to focus on relevant information and filter out
+143 distracting information.
+
+Previous research examining strategy selection and individual differences has identified both
+145 working memory capacity and inductive reasoning as individual differences that are associated with
+146 strategy selection (Schunn et al., 2001; Schunn & Reder, 2001). In a task, inductive reasoning can
+147 play a role in finding an underlying pattern, which may drive both representation change and strategy
+148 selection to take advantage of this pattern. People with higher working memory capacity are able to
+149 hold more relevant information in working memory, which in turn can help them to choose correct
+150 strategies (Schunn & Reder, 2001). However, other work found there was not a relationship between
+151 working memory capacity and strategy selection, although both working memory capacity and
+152 inductive reasoning were related to the awareness of base rate changes in the task (Schunn et al.,
+153 2001). The inconsistent findings on whether working memory capacity is related to strategy selection
+154 may be due to several factors, including differences in the tasks used to measure working memory
+155 capacity and the complexity of the problems being solved. One question is whether updating strategy
+156 success estimates is implicit or explicit. If the learning is implicit, it may not be affected by working
+157 memory capacity and inductive reasoning because implicit learning processes such as reinforcement
+158 learning may be governed by different neural systems than those associated with working memory
+159 (Collins & Frank, 2012). However, if learning strategy success rates is explicit, it is more likely to be
+160 associated with working memory capacity and inductive reasoning ability. Exploring these
+161 relationships can help clarify the underlying mechanisms involved in strategy selection and problem162
+solving.
+163 Although individual differences in working memory capacity, attentional control, and inductive
+164 reasoning ability could be related to strategy selection processes, it is also important to understand
+165 the relationship of these individual differences to the problem-solving task itself. Doing so means
+166 that individual differences associated with task performance can be considered when examining the
+167 relationship of these individual differences with strategy selection in the task. For example, if
+168 working memory capacity is related to performing one of the strategies because it is more demanding
+169 on working memory resources, then individuals with lower working memory capacity may select
+170 other strategies that have lower success rates but that demand less of working memory (Beilock &
+171 DeCaro, 2007). Given the larger sample size required for examining individual differences and the
+172 four between-participant conditions in the original study, in the current study we chose to focus on
+primarily examining individual differences related to BST 173 problem solving. The BST is a problem174
+solving task that allows individuals to experience multiple attempts on a single problem as they
+175 search for the correct solution. In addition, since most problem-solving actions are captured via the
+176 computer interface to the BST, it is possible to examine exploration of the problem space and its
+177 association with the overall outcome (i.e., time to solve) with respect to individual differences. Prior
+178 work has shown relationships between individual differences, such as working memory capacity, and
+179 time to solve a problem (Ash & Wiley, 2006), but in the current study we examine more fine-grained
+180 measures of problem space exploration to examine whether these measures mediate the relationship
+181 between individual differences and solution time.
+182 After selection of the initial move on a BST problem, the problem solver is either trying to add
+183 additional sticks to the first stick or to subtract sticks from the first stick. Each move involves a
+184 comparison of stick lengths to the difference between the target and current stick length. Either this
+185 attempt will succeed, the problem solver will eventually decide to reset the problem and start again,
+186 or a move limit is reached (set to six moves in the current study) and the task resets itself. Strategy
+187 selection will occur again followed by a similar set of moves and further problem attempts until the
+188 problem is solved. The current study explores whether measures of attentional control, inductive
+189 reasoning ability, and working memory capacity are related to this problem-solving process.
+190 While these analyses were exploratory in nature, these measures were selected based on their prior
+191 use in problem-solving and strategy research and because of their plausible role in supporting the
+192 BST problem-solving process. For example, inductive reasoning and working memory capacity may
+193 affect an individual’s ability to reason about multiple moves in a BST problem before selecting a
+194 move. Reasoning ability and working memory capacity may also play a role in reasoning about the
+195 way in which prior attempts have failed when selecting moves on a subsequent problem attempt with
+196 working memory playing a role in how well people can maintain and access traces of prior attempts.
+197 Attentional control and working memory capacity could also play a role in maintaining a move count
+198 to assess progress on the problem and how close one is to the move limit.
+199 In this study, we aim to replicate one of the studies that is the primary support for the RCCL theory
+200 and examine its predictions about how features in the problem environment and base-rate learning
+201 influence strategy selection. We also extend this previous work to investigate whether individual
+202 differences in attentional control, inductive reasoning ability, and working memory capacity are
+203 related to BST problem solving and the use of the two primary strategies.
+
+3 Materials and Methods
+205 3.1 Design
+206 A 2 (relative length cue predictiveness: predictive – 80%/20%; unpredictive – 50%/50%) by 2 (base
+207 rate bias: biased – 70%/30%; unbiased – 50%/50%) design was used in this experiment. The study
+208 consisted of a pretest, training, and posttest phase. The pretest and posttest phases are designed to
+209 probe strategy preferences and are identical across all conditions. The four experimental conditions
+210 only differed in the set of training BST problems that participants solved in the training phase. Table
+211 1 shows the different proportion of problem types in each condition.
+212 In the biased base rate conditions shown in Table 1, undershoot is the more successful strategy with
+213 70% of the training problems being solved by undershoot. In the experiment, which of the two
+214 strategies had the higher base rate of success was counterbalanced across participants. So there
+215 actually were 8 experimental conditions when including this counterbalancing. For the unbiased
+conditions, which strategy was designated as the most successful 216 strategy was also counterbalanced
+217 although this did not alter the composition of the training problems because the bast rates for each
+218 strategy were 50%. However, the designation of which strategy was most successful was used during
+219 analysis of the data where the primary measure was how often participants selected the most
+220 successful strategy based on the condition they were assigned to. Randomly assigning one of the two
+221 strategies as the most successful strategy in the unbiased conditions made it possible to collapse
+222 across the counterbalancing of overshoot and undershoot to analyze the differences in how often
+223 participants selected the most successful strategy for their condition for all four conditions.
+224 A large pool of BST problems consisting of the four problem types shown in the columns of Table 1
+225 was used to select the BST problems that each participant solved during the training phase. When a
+226 participant was randomly assigned to one condition, 80 BST problems were selected from the
+227 problem pool according to the number of different problem types for that condition as shown in
+228 Table 1. For example, if the participant was in the unbiased-predictive condition, 32 UC/US
+229 problems, 8 UC/OS problems, 32 OC/OS problems, and 8 OC/US problems were selected from the
+230 problem pool. Thus, the BST problem set for each participant is different but has the distribution of
+231 problem types specified by the condition. This problem selection process was used to sample relevant
+232 BST problems throughout the space of possible BST problems to avoid item-based effects in the data
+233 that might be caused by a particular “weird” problem that affects that condition’s mean.
+
+3.2 Participants
+235 A sample of 144 undergraduate students from Mississippi State University participated for course
+236 credit, and forty-four participants’ data was excluded from analyses because they did not meet the
+237 criterion of 80% accuracy on parity judgement in the complex span task (N = 38) or never responded
+238 correctly in complex span task (N = 4) or had more than five-time delays in the letter series task (N =
+239 4). These exclusion criteria were established prior to data collection.
+240 A power analysis was conducted based on the results reported by Lovett and Schunn (1999), with the
+241 partial eta square being 0.35 (from Experiment 1, ANOVA interaction effect reported on p. 116).
+242 This effect was selected because it was one of the smallest effect sizes reported in the paper. With a
+243 significance criterion of α = .05 and power = .90, the minimum sample size needed with this effect
+244 size is N = 98 for detecting this interaction. Thus, the target sample size was set to 100.
+245 The study was reviewed and determined to be exempt by the Mississippi State University
+246 Institutional Review Board (protocol number 19-349). Participants provided informed consent via an
+247 electronic consent form presented before the study began.
+248 3.3 Procedure
+249 In addition to the BST, participants were given three tasks designed to measure individual
+250 differences, including the antisaccade task (Kane et al., 2001), a complex span task (Barrouillet et al.,
+251 2007), and a letter series completion task (Simon & Kotovsky, 1963). The antisaccade task is
+252 designed to measure the ability to control attention, the complex span task was used to measure
+253 working memory capacity, and the letter series task measures the ability to acquire concepts by
+254 induction from examples, that is inductive reasoning ability. The entire session including all tasks
+255 took 70-80 minutes to complete with up to 6 participants at a time completing the task during a single
+256 session. The order of the tasks was the antisaccade task, the BST, the complex span task, and the
+257 letter series task. The antisaccade task first because it required monitoring participants to ensure that
+258 they were seated at the correct distance from the screen for the visual angle requirements described
+below for that task. It was easier for the experimenter to monitor this requirement 259 if all participants
+260 were completing the antisaccade at the same time. The remainder of the tasks were presented in the
+261 same order for each participant so that fatigue effects would be similar across participants. At the
+262 beginning of the experiment, participants read the consent form on the computer and then moved to
+263 the antisaccade task if they consented.
+264 Anti-saccade. This task assesses the ability of participants to control their attention and not look at a
+265 pro-saccade stimulus in order to identify a target stimulus presented on the opposite side of the screen
+266 with the task being adapted from Kane et al. (2001). Initially, the participants practiced mapping
+267 responses to the keys on the number pad (1, 2, and 3) for the letters B, P, and R, respectively. They
+268 had to place their left hand on the spacebar and their right hand on the number pad. A "Ready?"
+269 prompt appeared on the screen, and participants started each trial by pressing the spacebar. Then after
+270 400 ms a fixation cross appeared in the center of the screen. To avoid cue onset familiarity, fixation
+271 times were randomly selected from 200 ms, 600 ms, 1000 ms, 1400 ms, 1800 ms, or 2200 ms
+272 durations. Then the target letter was displayed for 100 ms and then replaced by a mask letter 'H' for
+273 50 ms, followed by the number '8' as a second mask that would remain on the screen until
+274 participants made a response. Participants would hear an audio tone for incorrect responses. There
+275 were 18 trials in the practice block. Participants had to reach 80% correct or higher during the
+276 practice block in order to proceed, otherwise, the practice block would continue in a loop until the
+277 criterion was met or participants completed 10 times. No participant failed to meet this criterion.
+After practicing the response mappings, participants received instructions on the antisaccade trials
+279 and completed 18 warmup trials and 36 actual antisaccade trials. These trials were presented as a
+280 single block of 54 trials. The antisaccade trials followed a similar procedure as the response mapping
+281 trials that is shown in Figure 3, with a "Ready?" prompt, a fixation cross, and presentations of the
+282 pro-saccade cue and anti-saccade target. The pro-saccade cue and anti-saccade target appeared in
+283 opposite flanking positions, and the target was replaced by two masks (letter 'H' followed by number
+284 '8') that remained on the screen until the participant made a response. The target appeared on each
+285 half of the screen an equal number of times. The distance between the fixation and the closest edge of
+286 each square where the target and cue appeared spanned 11.5 degrees of visual angle. An audio tone
+287 was played for incorrect responses. The dependent measure was the proportion of trials in which the
+288 participant correctly identified the target letter.
+289 Building Sticks Task. Instructions for how to solve the problems by overshoot and undershoot
+290 strategy were shown on the computer, so that participants were aware of the two basic approaches to
+291 solving BST problems. The strategies were not given explicit names (e.g., undershoot) in the
+292 instructions. Participants completed a set of three practice problems. For the first practice problem,
+293 they were told to use start with the stick that was longer than the target (overshoot). For the second
+294 practice problem, they were told to use start with a stick that was shorter than the target (undershoot).
+295 For the third problem, they were not told to use a specific approach so that they had to figure out for
+296 themselves which of the strategies solved the problem (the problem was solved by undershoot).
+297 The task has a pretest, training, and posttest phase. The pre- and posttest phases are a set of 10 test
+298 problems before and after the training phase in which participants only select the first move that they
+299 would make in attempting to solve it. The purpose of this format is to assess strategy performance
+300 without providing feedback about the success of the strategy. For these test problems, there were five
+301 levels of the relative length cue that were each sampled twice. There were two problems with a
+302 strong cue toward the undershoot strategy, two problems with a weak cue toward the undershoot
+303 strategy, two neutral problems (two sticks were equally close to the target length), two problems with
+a weak cue toward the overshoot strategy, and two problems 304 with a strong cue toward overshoot the
+305 strategy. The distinction between a strong cue and a weak cue was based on the ratio of difference
+306 between stick B and the target stick to difference between stick C and the target stick or reversely.
+307 Specifically, if the ratio was greater than 3.5, then the cue was considered strong, while if the ratio
+308 was around 2, then the cue was considered weak. During the training phase, participants were given
+309 80 training problems based on the condition they were assigned to as shown in Table 1. Participants
+310 were required to work on each of these problems until the length of the stick they were building
+311 matched the length of the desired stick or they used a "reset" button to start a new solution attempt.
+312 When a problem was presented, participants can click on each of the three available sticks to add it to
+313 the current attempt. Each stick can be selected as many times as needed. If the current attempt is
+314 longer than the target, then clicking on a building stick will subtract that stick from the current
+315 attempt. If the current attempt is shorter than a target, then the clicked stick is added to the current
+316 attempt. After each addition or subtraction, the current attempt stick is updated on that task interface.
+317 Participants were told that all problems can be solved in 6 moves or less. The experiment
+318 automatically reset the problem after 6 moves (on their seventh move). At the end of the task,
+319 participants were asked to answer three questions: “How did you decide which stick to use on your
+320 first attempt at the problem?”, “Did you use any particular strategies to solve these problems?”,
+321 “Were there any strategies you tried that didn't seem to work? If so, please describe what you tried.”.
+322 Complex Span Task. Next, participants completed a modified version of the complex span task used
+323 by Barrouillet et al. (2007). First, participants were asked to complete a training phase in which they
+324 would make judgements on the parity of the numbers 1-10. They had to achieve 80% accuracy to
+325 continue, otherwise, they would repeat the training. In the main task, participants were presented
+326 with a series of letters ranging in length from one to seven, with three series of each length. The
+327 series were presented in ascending order with all the one-length series presented before moving on to
+328 the two-length series and so on. The 21 series contained a total of 84 letters, each followed by a series
+329 of 4, 6, or 8 integers from 1 to 10. The numbers appeared in a fixed random order, with as many even
+330 as odd numbers. Participants were required to remember the letters in order and judge the parity for
+331 digits. After “Recall” appeared on the screen, participants would press the keys corresponding to the
+332 letters they were to remember. Before the main task began, one example of how to respond to digits
+333 and recall a letter was shown to participants. Participants were instructed and prompted to keep parity
+334 judgement at or above 80% accuracy in the main trials (which was established as a data exclusion
+335 criterion prior to the study). Feedback on accuracy was presented after recall for each series of letters.
+
+Letter Series Task. Finally, participants completed the letter series task (Simon & Kotovsky, 1963).
+337 Two examples of letter series with one rule and two rules were presented, and participants were
+338 presented with the letter series, rule(s), and answer for these examples. Then a practice trial was
+339 provided (e.g., “B, V, D, X, F, Z, H, B, ?"), and participants were guided to find the pattern within
+340 the letters. They were given feedback and taken back re-read the instructions if they did not respond
+341 correctly to this practice trial. There were 15 trials. The letters in each trial change according to a
+342 fixed pattern which could include more than one rule (e.g., “V, V, F, X, X, H, Z, Z, J, B, B, L, D, D,
+343 ?”). Participants were required to complete each trial in one minute or less. Participants were not able
+344 to go back once they submitted an answer. If they responded too quickly (less than 10 seconds) and
+345 gave a wrong answer, a compulsory delay of 15 s would be triggered. Once participants triggered the
+346 delay more than 5 times, their data were excluded from data analyses. The delay was included to
+347 discourage answering quickly without attempting to figure out the answer.
+349 4 Results
+350 4.1 Data Analysis
+351 For the pre- and posttest data, participants only selected the first move. Analyses of these data
+352 focused on whether participants selected the move consistent with the overshoot or undershoot
+353 strategy. Problems in which participants selected stick A were not included in the analyses (2.8% of
+354 the data) because stick A was not considered to be using the undershoot strategy as described in the
+355 task instructions. Based on the base-rate bias condition to which participants were assigned, one of
+356 the two strategies was designated as the successful strategy. In the biased conditions, half of the
+357 participants were randomly assigned to experience more problems solved by undershoot, and the
+358 other half experienced more problems solved by overshoot. Therefore, the successful strategy for
+359 these two groups of participants was undershoot and overshoot, respectively. In the unbiased
+360 conditions, participants experienced half of the problems solved by each strategy. In this case, half of
+361 the participants were randomly assigned to have the undershoot strategy designated as the successful
+362 strategy, and the other half were assigned the overshoot strategy as the successful strategy. Coding
+363 the data in this manner made it possible to analyze the data across counterbalance conditions and is
+364 identical to how the data were analyzed in the original study (Lovett & Schunn, 1999). For example,
+365 it is possible to assess whether participants selected the strategy for which the base rate was higher in
+366 the biased condition without regard to whether the strategy with the higher base rate was undershoot
+367 or overshoot.
+A separate set of analyses used the training phase data, during which participants had to solve each
+369 problem to move on to the next problem. Because it may take multiple attempts to solve a problem, it
+370 is possible to examine how many of the attempts that participants made were unique (as opposed to
+371 repeating a series of moves that was tried previously on that problem). In addition, unsuccessful
+372 attempts can be terminated by the participant clicking the reset button (i.e., manual reset) or by
+373 making more than 6 moves resulting in the system forcing the problem to be reset (i.e., forced reset).
+374 For the training phase data, dependent measures include the strategy that was first selected, solution
+375 time, proportion of the attempts that were unique, and the number of forced and manual resets.
+376 The data were analyzed using generalized linear mixed effects models including participant and item
+377 random effects unless otherwise noted. Analyses were performed in R using the lme4 and lmerTest
+378 packages (Bates et al., 2015; Kuznetsova et al., 2017). The lmerTest package provides p-values for
+379 fixed effects based on the Satterthwaite approximation. Factor variables were coded using deviation
+380 contrast coding (e.g., -.5/.5). For all models, a maximal random effects model was initially used (Barr
+381 et al., 2013), with participant random intercepts and any within-participant conditions modelled as
+382 random slopes for participant. If the model did not converge, then the random effects structure was
+383 reduced. While the power analysis determining sample size was based on an ANOVA as was used in
+384 the original paper, generalized linear mixed effects models were used because it is possible to
+385 formulate models that generally test the same effects as the original ANOVAs while also better
+386 representing that in many cases, the dependent measure is a binary outcome (e.g., was a certain
+387 strategy selected). In many cases in the original paper, a proportion measure was used in an ANOVA
+388 as if it were a continuous response.
+389 The high rate of exclusion for the complex span task (N=38) is discussed in the supplementary
+390 analyses available at https://osf.io/8w4kd. Analyses with these participants included are presented
+391 there, and in all cases there is no difference in the statistical significance of the results reported here
+392 with these participants excluded from analyses.
+
+4.2 Replication 393 of Original Findings
+394 4.2.1 Sensitivity to Cue Predictiveness
+395 The first prediction from RCCL was that the relative length cue would influence participants’ initial
+396 strategy selection. In the BST, the stick that is closest to the target is a salient cue associated with
+397 strategy selection. As described, there were five types of problems on the pre- and posttest: strong
+398 cue toward overshoot, weak cue toward overshoot, neutral, weak cue toward undershoot, and strong
+399 cue toward overshoot. These problem types were recoded based on the most successful strategy as
+400 designated by the condition the participant was assigned to (e.g., strong cue toward the most
+401 successful strategy). For the pretest, if participants were sensitive to the length cue, there would be a
+402 higher proportion of successful strategy selection for those problems in which there is a more salient
+403 relative length cue predictive of a successful strategy. If not, the proportion of successful strategy
+404 selection would be a flat line around 50%. The mean proportion of the time that the successful
+405 strategy was selected is shown in Figure 4 where it can be seen that participants were sensitive to the
+406 length cue in the predicted manner.
+407 The trial-level data were analyzed in a logistic generalized linear mixed effects model, with the
+408 dependent measure being whether the successful strategy was selected for each problem. The relative
+409 length cue was coded from -2 = strong cue toward unsuccessful strategy to 2 = strong cue toward
+410 successful strategy. The generalized linear mixed model showed that the relative length cue had a
+411 positive effect on the proportion of successful strategy (b = 1.03, SE = .29, 95% CI [0.46, 1.61], z =
+412 3.52, p < .001), which is consistent with the original finding. Increasing one unit on the relative
+413 length cue scale therefore results in a 2.80 increase in the odds of selecting the successful strategy.
+4.2.2 Sensitivity to Base Rates
+415 The second prediction was that participants would learn the base rates of success of each strategy. If
+416 participants learned the biased base rate during training, they would show sensitivity to the base rates
+417 in their strategy selection on the posttest. The biased base rate conditions were compared to the
+418 unbiased base rate conditions to test if biased base rates influenced successful strategy selection. To
+419 examine this prediction, a generalized linear mixed model was used with the dependent measure
+420 being whether the most successful strategy was selected, and the predictors included the base rate
+421 bias condition (unbiased/biased), the cue predictiveness condition (unpredictive/predictive), and test
+422 time (pre/posttest). The model fit is shown in Table 2, and the results demonstrated that participants
+423 in the biased base rates conditions chose the biased strategy more often than those in the unbiased
+424 conditions. This result is also consistent with the original findings. Critically, the differences between
+425 the base rate bias conditions (unbiased/biased) in the posttest were not caused by differences in
+426 pretest strategy selection because there is an interaction between the bias condition and test time.
+427 This interaction is driven by there being no difference in successful strategy selection at pretest
+428 between the biased and unbiased conditions (b = .07, SE = .15, z = .45, p = .97), but at posttest, the
+429 biased condition had a higher rate of successful strategy selection than the unbiased condition (b =
+430 .46, SE = .15, z = 3.16, p = .009). This interaction is shown in Figure 5, indicating that participants
+431 learned the base rates during training.
+432 4.2.3 Irrelevant Cues are Dropped
+433 The third prediction was that people would stop using task features that do not lead to successful
+434 strategies. According to the RCCL theory, if one feature was not useful, participants should drop it
+435 from their task representation. Specifically, on the pretest, participants were found to be sensitive to
+436 the relative length cue, as shown in Figure 4. Then after the training phase, participants who were in
+the unpredictive conditions should be less sensitive to the length cue 437 because it was not useful. With
+438 cue predictiveness and base rate bias conditions as between-subjects factors and relative length cue
+439 and test time as within-subjects variables, the generalized linear mixed model showed that there was
+440 an interaction between the cue predictiveness factor and the relative length cue (b = .21, SE = .08, z =
+441 2.71, p = .007). As shown in Figure 6, this interaction was due to participants in the unpredictive
+442 conditions being less sensitive to the relative length cue at posttest than at pretest (b = .24, SE = .10, z
+443 = 2.31, p = .02), but those in predictive conditions did not show a decrease in sensitivity to the
+444 relative length cue (b = .08, SE = .11, z = 0.73, p = .47).
+445 In addition, the responses to the questions about strategies asked at the end of the BST were coded
+446 according to the same coding scheme as in the original paper (Lovett and Schunn, 1999). Based on
+447 the keywords in the responses, the responses were categorized into three major groups: Length,
+448 Exclusive, and Other. Participants who made comparisons between Stick B or C and the desired stick
+449 were classified as using a length-sensitive procedure (Length). Participants were categorized as using
+450 exclusive strategy if a participant said they "always" or "usually" used one single strategy
+451 (Exclusive). The remaining responses were categorized as miscellaneous (Other). The inter-rater
+452 reliability between two judges was acceptable with a Cohen’s Kappa value of .92.
+453 The proportion of responses falling into each of these three categories for each condition is shown in
+454 Table 3. As some evidence that participants’ reported strategies corresponded to behavior,
+455 participants reporting using the length cue were more likely to select the strategy corresponding to
+456 the relative length cue in the training problems relative to the other two categories combined, F(1,
+457 98) = 5.45, p = .02. Participants in the unpredictive cue conditions had significantly fewer responses
+458 related to the length cue (45%, averaged over the levels of the base rate bias conditions) than
+459 participants in the predictive conditions (69%, averaged over the levels of the base rate bias
+460 conditions), 2 = 10.79, p = .001. This result supports the prediction that irrelevant features will be
+461 dropped when they are not predictive of success.
+
+4.2.4 More Representation Change
+463 The fourth prediction was that there would be more representation change in conditions where
+464 success rates are low. To quantify the change in task representation, a matrix method was used, as in
+465 the original study, to calculate the degree to which a participant has shifted in a two-dimensional
+466 representation space during the training phase of the experiment. The training problems were broken
+467 up into four blocks of 20 problems each for this analysis. The horizontal dimension of the matrix
+468 represented participants' sensitivity to the relative length cue during each block, with the proportion
+469 of choosing the closest stick determining the position on this axis. Participants who were further from
+470 zero were more sensitive to the relative length cue. The vertical dimension of the matrix represented
+471 participants’ sensitivity to the base rates, with the proportion of choosing the successful strategy
+472 corresponding to their assigned condition. Participants who were further from zero were more
+473 sensitive to the base rate. By dividing 80 training problems into four blocks, it is possible to see how
+474 participants’ choices changed over the course of training as four points in the matrix. The rationale
+475 underlying this analysis is that choices are made based on strategies which are in turn composed from
+476 the represented task features. The change in task representation over the course of training could be
+477 characterized as the distance between each point in the two-dimensional matrix. Figure 7 shows
+478 examples for the choice patterns of four participants during the training phase.
+479 According to the RCCL theory, the unbiased-unpredictive condition should have limited success
+480 because there were no features such as the relative length cue that were predictive of strategy success
+481 and both strategies had the same base rate of success. Therefore, there should be more representation
+changes in this specific condition. The results showed that the representations 482 of the participants in
+483 the unbiased-unpredictive condition (M = .71, SD = .16) covered more distance than the other three
+484 conditions combined (M = .58, SD = .21), F(1, 98) = 8.09, p = .005.
+485 To verify that there was overall less success in initial strategy selection for the unbiased-unpredictive
+486 condition, whether the correct initial stick (overshoot or undershoot) was selected as the first move
+487 for the first attempt on each training problem was examined in a generalized linear mixed effect
+488 model contrasting the success rates in all other conditions to the success rate for the unbiased489
+unpredictive condition. The results showed that success rates in the unbiased-unpredictive condition
+490 (M = .64, SD = .10) were lower than the other three conditions combined (M = .69, SD = .10), z = -
+491 2.54, p = .01.
+492 4.3 Individual Differences Results
+493 Descriptive statistics for each of the individual difference measures are shown in Table 4. All
+494 individual differences measures were converted to z-scores prior to including them in any statistical
+495 models. To examine whether individual differences were related to initial strategy selection in BST
+496 problem solving, we first focused on the role of individual differences in initial cue use. The
+497 proportion of choosing the overshoot strategy during the pretest phase was examined using a linear
+498 mixed effects model with predictors for relative length cue and the three individual differences. The
+499 relative length cue was included to see if there was a difference in sensitivity to the relative length
+500 cue for individuals varying on any of the individual difference measures, as shown by an interaction
+501 between the relative length cue and one or more of the individual differences. No significant
+502 interactions were found, indicating no evidence for a role of these individual differences in initial cue
+503 use. However, individuals with higher inductive reasoning ability chose the overshoot strategy more
+504 often than those who were lower on the inductive reasoning measure (b = .03, SE = .01, t = 1.92, p =
+505 .05). There were no significant relationships between the proportion of choosing the overshoot
+506 strategy and attentional control (b = .02, SE = .01, t = 1.34, p = .18) or working memory capacity (b =
+507 .01, SE = .01, t = 1.09, p = .28). This result may indicate some differences between the overshoot and
+508 undershoot strategies where the overshoot strategy may be a bit more demanding of cognitive
+509 resources.
+Problem-solving performance during the training phase was then examined in an exploratory analysis
+511 to identify individual differences related to BST problem solving. One of the goals of this set of
+512 analyses was to identify relationships that could be explored in further hypothesis-driven research. In
+513 addition, the goal is to understand the role these individual differences may play in BST problem
+514 solving before conducting future research examining the relationship of these individual differences
+515 to strategy selection and representation change processes.
+516 Solution time was first examined to determine if any individual differences had an influence on it.
+517 The model fit shown in Table 5 showed that inductive reasoning ability and attentional control both
+518 had a significant effect on solution time, with higher attentional control and inductive reasoning
+519 ability associated with faster solution times. In addition, being in the predictive condition also led to
+520 faster solution times.
+521 To provide some further constraints on the mechanisms by which these individual differences
+522 influence solution time, the proportion of unique attempts and the proportion of resets that were
+523 forced resets were examined as mediators of the effect of the individual difference measures on
+524 solution time. The rationale was that measures such as the proportion of unique attempts provide
+525 measures of how effectively participants are searching the problem space, and individual differences
+may be affecting this search process, which in turn impacts 526 solution time. The proportion of resets
+527 that were forced resets may indicate the degree to which participants are monitoring problem-solving
+528 progress on their own as compared to relying on the maximum moves built into the task interface. In
+529 addition, the condition that participants were assigned to was included in this analysis as a predictor
+530 of solution time and a predictor of the mediating variables because the problem distribution in each
+531 condition may have influenced these variables. Figure 8 displays the results of this mediation
+532 analysis excluding the condition predictors in the visualization for ease of interpretation. There was a
+533 significant path from inductive reasoning ability to the proportion of unique attempts to solution time
+534 (𝑏 = -.02, z = -2.22, p = .03), and there was a significant path from attentional control to forced resets
+535 to solution time (𝑏 = -.02, z = -2.31, p = .02).
+536 5 Discussion
+537 The goals of this experiment were to examine how task representations influence strategy selection
+538 and explore how individual differences in attentional control, inductive reasoning ability, and
+539 working memory capacity are related to BST problem-solving. The results can be summarized as
+540 follows: (1) people are sensitive to a salient feature of the task in their initial representation, (2)
+541 people are sensitive to the base rate of strategy success, (3) people tend to drop features from the task
+542 representation that are found not to be useful, (4) there are more representation changes when success
+543 rates are low, and (5) individual differences in attentional control, working memory capacity, and
+544 inductive reasoning ability are related to BST problem-solving performance, in both direct and
+545 indirect ways. The first four of these results replicate prior results (Lovett & Schunn, 1999). The
+546 prior study was one of the few to directly test the RCCL theory. Therefore, the current replication of
+547 those results provides further support for that theory.
+548 The first prediction from the RCCL theory is that salient features in a task influence the initial task
+549 representation. For BST problems, the specific prediction was that the relative length cue would
+550 influence participants’ initial strategy selection because it is the most salient cue in the task, and it
+551 will be a part of the initial problem representation. The upward linear curve in Figure 4 is an
+552 indication of individuals' sensitivity to the relative length cue. In other words, this salient feature
+553 influences individuals' task representations and strategy selection, which is a replication of the
+554 original finding (Lovett & Schunn, 1999). This finding is also in line with other work showing the
+555 role of salient features in strategy selection (Proctor et al., 1992).
+The second prediction from the RCCL theory is that individuals will learn the success rate of each
+557 strategy. With more experience in the BST, participants will eventually learn the success rate of each
+558 strategy in the biased conditions, and they will show sensitivity to the biased base rates in their
+559 strategy selection in the posttest. Indeed, biased base rates influenced successful strategy selection,
+560 with individuals in the biased conditions selecting strategies having higher rates of success more
+561 often. This base-rate sensitivity was caused by learning in the training phase rather than any
+562 differences between condition in pretest strategy selection. One of the main reasons for developing
+563 the RCCL theory was a finding that base-rate neglect on problem-solving and decision-making tasks
+564 depends on whether the problem is presented as a text-based summary of frequencies or probabilities
+565 or whether people experience the trial-by-trial frequencies from which success rates can be learned
+566 (Bar-Hillel, 1980; Kahneman & Tversky, 1973). The current result showing sensitivity to base rates
+567 replicates the original finding (Lovett & Schunn, 1999).
+568 The third prediction from the RCCL theory is that if current strategies have low success rates, then
+569 individuals will re-represent the task by adding or removing task features from the representation. In
+the BST, individuals will learn to drop the relative length cue from their task re 570 presentation if it is not
+571 predictive of success. Both self-report data and behavioral data were used to examine this prediction.
+572 First, the results of the self-reports showed that individuals were less likely to use length-based cues
+573 in the unpredictive conditions relative to the predictive conditions. In addition, individuals who
+574 reported using stick length showed more sensitivity to the relative length cue than individuals who
+575 reported using the other two categories of strategies (exclusivity and other reports). These findings
+576 are consistent with the original findings (Lovett & Schunn, 1999). Choice behavior in the posttest
+577 showed that participants were less sensitive to the relative length cue in the unpredictive conditions.
+578 Sensitivity was quantified as the slope of the individual's choice proportions against the relative
+579 length cue (e.g., the slope of the curve in Figures 4 and 6), and the slopes in the unpredictive
+580 conditions became flatter from pretest to posttest. These findings indicate that individuals are
+581 reducing their use of the relative length cue when it is not useful, supporting the prediction made by
+582 RCCL that people will remove useless features from the task representation.
+583 However, other feature-based strategy selection theories, such as rational metareasoning (RM)
+584 theory, can also be used to interpret these results (Lieder & Griffiths, 2017). In RM’s account of
+585 strategy selection, the mapping from features to a strategy’s value is learned from experience via a set
+586 of weights between the features and the expected cost and reward of the strategy. This learning
+587 mechanism can transfer the learned weights from prior problem solving to pick effective strategies
+588 for novel problems that have similar feature values. According to RM, people can learn that a feature
+589 is not predictive of success, not necessarily because they drop the feature from the representation, but
+590 the weight between the feature and the cost and reward of the strategy could be updated to be zero.
+591 Therefore, RM can also account for these results by simply learning that the feature is not relevant to
+592 strategy selection. We cannot differentiate the RCCL theory from RM within the current study design
+593 because it is not possible to assess whether the feature has been removed from the task representation
+594 or if it is in the task representation but not affecting strategy selection. It may not be possible to distinguish between removing a feature from the task representation and
+596 updating the weight of the feature to zero. However, RCCL explains representation change as a
+597 discrete process. For example, if the relative length cue is removed from the task representation, then
+598 it is no longer possible to create or select strategies that rely on this feature. On the other hand,
+599 learning the mapping between features and strategy value in RM would occur in a more continuous
+600 manner as experiences update the relevant weights. At least in aggregate, the posttest data shown in
+601 the unpredictive column of Figure 6 do not seem to reflect a discrete removal of the relative length
+602 cue from the task representation and may reflect a decrease in the importance of the relative length
+603 cue instead. The design of the current study was not intended to look at the rate of this change
+604 process, but it may be possible to do so in future work.
+605 The fourth prediction from the RCCL theory is that there will be more representation change in tasks
+606 when strategy success rates are low. The task representation is used to generate strategies, and the
+607 success rate of each strategy is learned by experience in the task. This learning mechanism leads to
+608 gradual changes in the estimated success rate, and these changes in turn lead to representation
+609 changes which affect the available strategies. Thus, when success rates learned for used strategies are
+610 low, people will change the task representation by adding or removing features from the task
+611 representation. In the BST, more task representation changes are expected to occur in the unbiased612
+unpredictive condition because neither base rates nor the relative length cue lead to high success. The
+613 results did show that there was more representation change in the unbiased-unpredictive condition
+614 than in other conditions. However, a caveat should be made concerning the conclusion that there are
+615 more representation changes in low success rates. When testing if there are more strategy changes if
+the success rate is low, the unbiased-unpredictive condition was compared w 616 ith all other conditions
+617 as was done in the original study. But taking both the predictive and biased factors into consideration,
+618 there was no interaction between biased base rates and cue predictiveness. It may be that individuals
+619 in the unpredictive conditions have more representation changes, and there may not be more
+620 representation change in the unbiased-unpredictive condition than in the biased-unpredictive
+621 condition. A possible explanation for this result may be that the relative length cue is a salient cue in
+622 the task, and when it is not helpful, individuals tend to find other features to replace it. It may also be
+623 that the current study did not have sufficient statistical power to detect the interaction.
+624 The method used to examine representation change as shown in Figure 7 also has its limitations. This
+625 grid method intends to examine representation change reflected in choices that are controlled by
+626 strategies. The relative length cue does seem to be a feature that could be incorporated into the task
+627 representation. However, the rate of selecting the most successful of the overshoot/undershoot
+628 solution methods is more difficult to conceptualize as a representation change. According to RCCL,
+629 success rates of generated strategies are learned via experience, but the theory does not commit to
+630 whether these are explicitly represented or learned via some implicit mechanism (e.g., reinforcement
+631 learning). Even if the base rate is explicitly represented, it would be the base rate of specific
+632 strategies and not necessarily the overall base rate of success of the initial selection of the overshoot
+633 or undershoot stick. Therefore, the base rate dimension of the grid may not reflect representation
+634 change. This analysis is also limited in that it only considers one (or two) potential task features, and
+635 if people are searching for new features that are not these features, then the analysis does not capture
+636 this variation. While this analysis does replicate the original result, there are limitations to it which
+637 make it difficult to fully evaluate this prediction of RCCL. In summary, the current study replicates
+638 the findings of the previous experiment with respect to all four predictions of the RCCL theory with
+639 some important limitations, and other theories such as RM also seem compatible with the results.
+640 While the current study focused on replication of prior results with the BST task, the original paper
+641 also reported supporting results in another task, the Colors task (Lovett & Schunn, 1999). In this task,
+642 participants were presented with a cue and a pair of choices with the choices being probabilistically
+643 rewarded. The task had four experimental conditions differentiated by two main factors: number of
+644 colors (either a two-color or four-color version of the task) and reward probabilities (these were given
+645 in pairs, either “67/33” or “80/50”). In the two-colors condition, the cue was either a colored red or
+646 green square and the response options were always red and green squares. In the 67/33 condition, the
+647 red response option was always rewarded 67% of the time and the green option 33% of the time
+648 (regardless of the cue color). In the 80/50 condition, for the red cue, the red option was rewarded
+649 80% of the time and the green option 20% of the time. For the green cue, both options were rewarded
+650 50% of the time. The four-color version of the task operated with the same probability structure
+651 except that the cues were blue and yellow (so that they did not match the color of the response
+652 options).
+653 According to RCCL, in the two-colors condition, one of the choice colors matched the cue color, so
+654 participants would tend to represent the task as matching or not matching the cue and their strategies
+655 would be to either match the cue or not. In the four-color condition, participants would not represent
+656 the task as matching and so would be better able to learn cue-specific response probabilities. The
+657 findings matched this prediction, with participants in the two-color condition being more sensitive to
+658 base-rates of matching and participants in the four-color condition being more sensitive to cue
+659 specific response probabilities (Lovett & Schunn, 1999).
+
+Overall, this task did introduce different strategies by manipulating f 660 eatures across different
+661 conditions, leading to distinct choice behaviors based on participants’ task representation, such as
+662 whether they represented the match/mismatch feature. The results supported the RCCL theory’s
+663 prediction that different strategies are generated in terms of different task representation. Moreover,
+664 initial task representations were more obvious in this task, which could help identify the
+665 representation changes. As such, the predictions made by the RCCL were tested in two relatively
+666 straightforward tasks. Despite the tasks’ simplicity, the implications of the RCCL theory are not
+667 limited to the BST. It will be important to examine the generality of this theory in tasks that go
+668 beyond the original work including tasks with a larger space of possible strategies. One challenge
+669 with examining such tasks is that it is often difficult to know exactly what strategy a participant is
+670 using when the space of strategies is larger (Moss et al., 2022).
+671 5.1 Individual Differences Related to BST Problem Solving
+672 In addition to replicating prior results, another goal of the current study was to examine relationships
+673 between individual differences in working memory capacity, attentional control, and inductive
+674 reasoning ability to BST problem-solving. In this study, we used the proportion of unique attempts,
+675 the proportion of forced resets, and solution time as measures of problem-solving performance.
+676 Problem solution time is a less granular measure of problem-solving performance that can potentially
+677 be explained by the more granular measures related to problem space exploration such as the
+678 proportion of unique attempts and forced resets in the BST task. In this task, problem solving may
+679 consist of many attempts to solve the problem, but only one solution works. Across these attempts,
+680 participants sometimes repeat an attempt from earlier. In addition, this task was programmed to force
+681 a reset on participants’ seventh move during an attempt, and the instructions for the task stated that
+682 all problems can be solved within five moves. The proportion of unique attempts and forced resets
+683 reflect how effectively people explore the problem space for each problem (Newell & Simon, 1972)
+684 and how they may be monitoring their solution attempt. Specifically, a higher proportion of unique
+685 attempts indicates that participants are more likely to maintain the traces of prior attempts and avoid
+686 repeating prior attempts. Similarly, a lower proportion of forced resets may indicate that participants
+687 are monitoring how many moves have been made to evaluate their progress toward a solution such
+688 that avoid being forced to reset.
+In the regression model relating the individual differences to solution time shown in Table 5, only
+690 attentional control and inductive reasoning are significant predictors of solution time. Considering
+691 that the proportion of unique attempts and forced resets could potentially explain solution time, we
+692 also included these two measures in the mediation model as mediators. Individual differences in
+693 attentional control and inductive reasoning ability influenced solution time but were mediated by the
+694 proportion of forced resets and the proportion of unique attempts, respectively. Higher inductive
+695 reasoning ability was associated with a higher proportion of unique attempts, leading to faster
+696 solution time. One interpretation is that participants are reasoning about the failure of past attempts to
+697 plan the next attempt, which helps to constrain search in a manner that reduces the chance of
+698 repeating an earlier attempt.
+699 Participants with higher attentional control had fewer forced resets, leading to faster solution time.
+700 This mediation can be explained by the fact that attentional control resources are being used to
+701 monitor the number of moves made so that reaching a forced reset is less likely. Attentional control
+702 has been discussed as the ability to control the information that gets maintained in working memory
+703 in the face of distraction (Unsworth, 2016; Unsworth et al., 2021). In the antisaccade task, this
+704 control allows the goal of attending to the opposite side of the screen to be maintained and influence
+action selection in the face of the prepotent response to move one’s 705 eyes to the blinking distractor. In
+706 the BST, this process may allow for a move counter to be maintained while also executing planned
+707 moved and planning future moves.
+708 Finally, there was no effect of working memory capacity on problem-solving measures. This result
+709 is not aligned with other work, which found that individual differences in WMC are related to the
+710 ability to retrieve previous task experience which then contributes to task performance (Mattarella-
+711 Micke & Beilock, 2010; Wiley & Jarosz, 2012). One possibility for the nonsignificant result is that
+712 working memory capacity is correlated with attentional control, and the latter accounts for the effects
+713 on problem-solving performance (Ash & Wiley, 2006; Engle & Kane, 2004; Kane et al., 2001). As
+714 such, it is reasonable to suggest that solution time is not influenced by the unique variance of
+715 working memory capacity that is not shared with attentional control and inductive reasoning. As
+716 expected, all the task measures were somewhat correlated with the antisaccade and complex span
+717 measures sharing 25% of their variance. As shown in a supplemental material, when working
+718 memory capacity alone is used to predict solution time, then there is a significant relationship, but if
+719 either of the other two individual differences are included, then this relationship is not significant.
+720 Therefore, the lack of a relationship with working memory capacity in the current study could be
+721 attributed to variance better accounted for by the inductive reasoning and attentional control
+722 measures. The interpretation of the individual differences is also limited by the use of a single task to measure
+724 these three related latent constructs. There is always the concern that the correlations we observed
+725 could be due to task variance unassociated with the latent construct. In addition, the status of
+726 attentional control as a singular construct is very much an open question. We selected the antisaccade
+727 task because of its reliability and that it generally loads highly on an attentional control factor in
+728 other research (Draheim et al., 2021). Traditional tasks that have been used to measure attentional
+729 control suffer from low reliability and do not correlate with each other (Hedge et al., 2018; Rouder &
+730 Haaf, 2019). There are different proposals on how best to measure attentional control given these
+731 concerns including relying on accuracy-based measures such as the antisaccade rather than on
+732 differences in response times such as in a Stroop task (Burgoyne et al., 2023; Draheim et al., 2021).
+733 Researchers examining the related construct of cognitive control have also noted that there are
+734 multiple mechanisms or dimensions by which individuals could adjust to task demands (Frömer &
+735 Shenhav, 2022; Ritz et al., 2022), but it remains to be seen whether it is possible to measure reliable
+736 individual differences along these dimensions.
+737 Although the present results are consistent with the original findings, they also raise some new
+738 questions. For example, we found that participants showed sensitivity to the relative length cue in the
+739 pretest, but there was also a relationship between inductive reasoning ability and use of the overshoot
+740 strategy. It is not clear why this relationship exists. In the BST, we can consider the overshoot
+741 strategy as subtraction and the undershoot strategy as addition. The preference for undershoot could
+742 be induced by the preference for addition rather than subtraction (Adams et al., 2021). Inductive
+743 reasoning, a core component of fluid intelligence, is also closely tied to math performance (Kinshuk
+744 et al., 2006). And using a subtraction procedure has been found to be more difficult than addition
+745 (Barrouillet et al., 2008; Campbell & Xue, 2001; Kamii et al., 2001). People with higher inductive
+746 reasoning ability might be better at using subtraction or more willing to engage in the reasoning
+747 required to plan a subtraction solution, which can be the reason why they choose overshoot strategy
+748 more.
+It is noted that the individual difference analyses in the current 749 paper were exploratory analyses, and
+750 it was not feasible to examine the relationships between individual differences and base-rate learning
+751 in only a subset of the conditions, such as in the biased-unpredictive condition. Examination of
+752 individual differences in the rate at which people shift toward more useful task representations and
+753 strategies with that kind of comparison was not possible in the current study given that each cell of
+754 the design had only 25 participants. Importantly, exploring the relationships between individual
+755 differences and problem-solving performance should provide a basis for examining how these
+756 individual differences play a role in strategy development and selection in future research using BST
+757 problems to explore strategy selection. Verifying that the results of prior research could be replicated
+758 was a prerequisite to conducting a higher-powered study examining the role of individual differences.
+759 This future work would also be better able to address the question of whether strategy success
+760 estimates are maintained and updated explicitly or implicitly by examining individual differences
+761 related to adapting to base rates.
+762 To conclude, in spite of some limitations, we have tested the predictions made by the RCCL theory
+763 and replicated the original findings from Lovett and Schunn (1999). However, the RCCL theory
+764 needs further development to test more specific predictions, and some of the results may be better
+765 explained by other strategy selection theories such as RM. Individual differences were also found to
+766 be related to BST strategy use and problem-solving performance. Based on the present findings,
+767 future research can focus on exploring strategy preferences and establishing a more thorough
+768 understanding of how individual differences are related to strategy development and selection.

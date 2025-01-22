@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Processing App</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        textarea {
+            width: 100%;
+            height: 150px;
+            margin-bottom: 20px;
+        }
+        button {
+            padding: 10px 20px;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        .output {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #e9ecef;
+            border: 1px solid #ced4da;
+            white-space: pre-wrap;
+        }
+        .options {
+            margin-bottom: 20px;
+        }
+        .options label {
+            margin-right: 15px;
+        }
+        input[type="file"] {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>改行削るよ君</h1>
+    <p>英文読むときに鬱陶しい改行を削るために作成したよ。<br>
+入力したテキストの改行を削るよ。削った部分は半角スペースで補完するよ。<br>
+お好みで他の機能も追加できるよ。チェックボックスで選択してね。<br>
+.txtファイルを読み込むこともできるよ。結果は.txtとしてダウンロード可能だよ。</p> 
+
+    <div class="options">
+        <label>
+            <input type="checkbox" id="removeLineBreaks" checked> Remove Line Breaks
+        </label>
+        <label>
+            <input type="checkbox" id="removeNumbers"> Remove Leading Numbers Per Line
+        </label>
+    </div>
+
+    <input type="file" id="fileInput" accept=".txt">
+    <textarea id="inputText" placeholder="Paste your text here..."></textarea>
+    <button onclick="processText()">Process Text</button>
+    <button onclick="downloadText()">Download Result</button>
+
+    <h2>Output:</h2>
+    <div id="output" class="output"></div>
+
+    <script>
+        document.getElementById('fileInput').addEventListener('change', function(event) {
+            const file = event.target.files[0];
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = function(e) {
+                    document.getElementById('inputText').value = e.target.result;
+                };
+                reader.readAsText(file);
+            }
+        });
+
+        function processText() {
+            let inputText = document.getElementById('inputText').value;
+
+            if (document.getElementById('removeNumbers').checked) {
+                inputText = inputText.replace(/^\d+/gm, '');
+            }
+
+            if (document.getElementById('removeLineBreaks').checked) {
+                inputText = inputText.replace(/\n/g, ' ');
+            }
+
+            document.getElementById('output').textContent = inputText;
+        }
+
+        function downloadText() {
+            const processedText = document.getElementById('output').textContent;
+            const blob = new Blob([processedText], { type: 'text/plain' });
+            const link = document.createElement('a');
+            link.href = URL.createObjectURL(blob);
+            link.download = 'processed_text.txt';
+            link.click();
+        }
+    </script>
+</body>
+</html>
